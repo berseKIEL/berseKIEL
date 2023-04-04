@@ -24,6 +24,22 @@
 ## Education
 - Argentina, Santiago del Estero:
   - **Technical Degree in Programming and System Analysis**, ITSE
+  
+## My Experience, works and projects
+
+**ProfesadoProvincial** - Python, Django, Bootstrap
+
+**Vitrinia** - Typescript, Express, Sequelize, React, Bootstrap, MySQL
+
+**Referencia** - Javascript, Express, Sequelize, React, Bootstrap, Next, MySQL
+
+**odin-rockpaper-scissors** - HTML, CSS, JS
+
+**odin-sketch** - HTML, CSS, JS
+
+**condificadorAlura** - HTML, CSS, JS
+
+**SistemasMultasITSE** - Java Swing
 
 ## 📫 You can reach me in: 📫
 
