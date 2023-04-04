@@ -27,21 +27,21 @@
   
 ## My Experience, works and projects
 
-<a href="https://gestion.ispp1.edu.ar/" target="blank"> **ProfesadoProvincial**</a> - Python, Django, Bootstrap
+<a href="https://gestion.ispp1.edu.ar/" target="blank"> ProfesadoProvincial </a> - Python, Django, Bootstrap
 
-<a href="https://vitrinia.com/" target="blank"> **Vitrinia**</a> - Typescript, Express, Sequelize, React, Bootstrap, MySQL
+<a href="https://vitrinia.com/" target="blank"> Vitrinia </a> - Typescript, Express, Sequelize, React, Bootstrap, MySQL
 
-<a href="#" target="blank"> **Referencia**</a> - Javascript, Express, Sequelize, React, Bootstrap, Next, MySQL
+<a href="#" target="blank"> Referencia </a> - Javascript, Express, Sequelize, React, Bootstrap, Next, MySQL
 
-<a href="https://bersekiel.github.io/odin-rockpaperscissors/" target="blank">**odin-rockpaper-scissors**</a> - HTML, CSS, JS
+<a href="https://bersekiel.github.io/odin-rockpaperscissors/" target="blank"> odin-rockpaper-scissors </a> - HTML, CSS, JS
 
-<a href="https://bersekiel.github.io/odin-etchasketch/" target="blank">**odin-etchasketch**</a> - HTML, CSS, JS
+<a href="https://bersekiel.github.io/odin-etchasketch/" target="blank"> odin-etchasketch </a> - HTML, CSS, JS
 
-<a href="https://bersekiel.github.io/codificarAlura/" target="blank">**condificadorAlura**</a> - HTML, CSS, JS
+<a href="https://bersekiel.github.io/codificarAlura/" target="blank"> condificadorAlura </a> - HTML, CSS, JS
 
-<a href="https://bersekiel.github.io/TPOProgIII/app/index.html" target="blank">**TPOProgIII**</a> - HTML, CSS, JS
+<a href="https://bersekiel.github.io/TPOProgIII/app/index.html" target="blank"> TPOProgIII </a> - HTML, CSS, JS
 
-<a href="#" target="blank">**SistemasMultasITSE**</a> - Java Swing
+<a href="#" target="blank"> SistemasMultasITSE </a> - Java Swing
 
 ## 📫 You can reach me in: 📫
 
