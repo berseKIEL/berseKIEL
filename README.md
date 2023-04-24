@@ -3,7 +3,7 @@
 
 <h3 align=center>A Full-stack Developer</h3>
 
-- 🔭 I'm currently working as a Full-stack Developer with React, ExpressJS, Sequelize and Bootstrap, and with Django.
+- 🔭 I'm currently working as a Full-stack Developer.
 - 💬 I'm looking opportunities to grow in the IT community constantly searching and doing challenges and courses.
 - 🌱 I'm learning new technologies and languages every day
 - ⚡ And looking for a better job offering what I have and I can do.
@@ -13,7 +13,7 @@
   - Pop! OS, Windows and **WSL**
 
 - 🤔 Learning:
-  - Angular, VueJs, Tailwind, Sequelize, Spring
+  - Angular, VueJs, Tailwind, Sequelize, Spring, NextJS, PrimeReact, PrimeFlex
   
 - 😄 Confident:
   - Java, Javascript, **TypeScript**, **ExpressJS**, **React**, Bootstrap, Jira, Trello, Docker
@@ -31,7 +31,7 @@
 
 <a href="https://vitrinia.com/" target="blank"> Vitrinia </a> - Typescript, Express, Sequelize, React, Bootstrap, MySQL
 
-<a href="#" target="blank"> Referencia </a> - Javascript, Express, Sequelize, React, Bootstrap, Next, MySQL
+<a href="#" target="blank"> Referencia </a> - Javascript, Express, Sequelize, React, Bootstrap, NextJS, PrimeReact, PrimeFlex, MySQL
 
 <a href="https://bersekiel.github.io/odin-rockpaperscissors/" target="blank"> odin-rockpaper-scissors </a> - HTML, CSS, JS
 
