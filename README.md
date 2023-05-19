@@ -10,7 +10,7 @@
 
 ## ✨ About the Technologies and Languages I use ✨
 - 💻 SO:
-  - Pop! OS, Windows and **WSL**
+  - Pop! OS - Zorin - Mint , Windows and WSL
 
 - 🤔 Learning:
   - Angular, VueJs, Tailwind, Sequelize, Spring, NextJS, PrimeReact, PrimeFlex
