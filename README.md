@@ -22,8 +22,10 @@
   - Python, **Django**, Flask, **MySQL**, Git
   
 ## Education
-- Argentina, Santiago del Estero:
-  - **Technical Degree in Programming and System Analysis**, ITSE
+- ITSE - Argentina
+  - **Technical Degree in Programming and System Analysis**
+- Alura - Oracle
+  - **Java - Back-End Developer**
   
 ## My Experience, works and projects
 
