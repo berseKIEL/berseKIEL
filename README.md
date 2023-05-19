@@ -37,9 +37,9 @@
 
 <a href="https://bersekiel.github.io/odin-etchasketch/" target="blank"> odin-etchasketch </a> - HTML, CSS, JS
 
-<a href="https://bersekiel.github.io/codificarAlura/" target="blank"> condificadorAlura </a> - HTML, CSS, JS
+<a href="https://bersekiel.github.io/alura-encriptador/" target="blank"> alura-encriptador </a> - HTML, CSS, JS
 
-<a href="https://bersekiel.github.io/TPOProgIII/app/index.html" target="blank"> TPOProgIII </a> - HTML, CSS, JS
+<a href="https://bersekiel.github.io/TPOProgIII" target="blank"> TPOProgIII </a> - HTML, CSS, JS
 
 <a href="#" target="blank"> SistemasMultasITSE </a> - Java Swing
 
