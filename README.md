@@ -6,20 +6,19 @@
 - 🔭 I'm currently working as a Full-stack Developer.
 - 💬 I'm looking opportunities to grow in the IT community constantly searching and doing challenges and courses.
 - 🌱 I'm learning new technologies and languages every day
-- ⚡ And looking for a better job offering what I have and I can do.
 
 ## ✨ About the Technologies and Languages I use ✨
 - 💻 SO:
-  - Pop! OS - Zorin - Mint , Windows and WSL
+  - Windows - WSL - Ubuntu
 
 - 🤔 Learning:
   - Angular, VueJs, Tailwind, Sequelize, Spring, NextJS, PrimeReact, PrimeFlex
   
 - 😄 Confident:
-  - Java, Javascript, **TypeScript**, **ExpressJS**, **React**, Bootstrap, Jira, Trello, Docker
+  - Java, **ExpressJS**, Bootstrap, Jira, Trello
 
 - 🤪 Apassionated:
-  - Python, **Django**, Flask, **MySQL**, Git
+  - Docker, **React**, .NET (C#), Javascript, **TypeScript**, Python, **Django**, Flask, **MySQL**, Git
   
 ## Education
 - ITSE - Argentina
@@ -29,9 +28,11 @@
   
 ## My Experience, works and projects
 
+**Banco Santiago del Estero** - React, .NET (C#), PostgreSQL.
+
 <a href="https://gestion.ispp1.edu.ar/" target="blank"> ProfesadoProvincial </a> - Python, Django, Bootstrap
 
-<a href="https://vitrinia.com/" target="blank"> Vitrinia </a> - Typescript, Express, Sequelize, React, Bootstrap, MySQL
+Vitrinia - Typescript, Express, Sequelize, React, Bootstrap, MySQL
 
 <a href="#" target="blank"> Referencia </a> - Javascript, Express, Sequelize, React, Bootstrap, NextJS, PrimeReact, PrimeFlex, MySQL
 
