@@ -15,10 +15,10 @@
   - Angular, VueJs, Tailwind, Sequelize, Spring, NextJS, PrimeReact, PrimeFlex
   
 - 😄 Confident:
-  - Java, **ExpressJS**, Bootstrap, Jira, Trello
+  - Java, ExpressJS, Bootstrap, Jira, Trello
 
 - 🤪 Apassionated:
-  - Docker, **React**, .NET (C#), Javascript, **TypeScript**, Python, **Django**, Flask, **MySQL**, Git
+  - Docker, React, .NET (C#), Javascript, TypeScript, Python, Django, Flask, MySQL, PostgreSQL, Git
   
 ## Education
 - ITSE - Argentina
@@ -28,13 +28,13 @@
   
 ## My Experience, works and projects
 
-**Banco Santiago del Estero** - React, .NET (C#), PostgreSQL.
-
-<a href="https://gestion.ispp1.edu.ar/" target="blank"> ProfesadoProvincial </a> - Python, Django, Bootstrap
+**Bank Santiago del Estero** - React, Boostrap, .NET (C#), PostgreSQL, Sybase, Docker, Ubuntu.
 
 Vitrinia - Typescript, Express, Sequelize, React, Bootstrap, MySQL
 
-<a href="#" target="blank"> Referencia </a> - Javascript, Express, Sequelize, React, Bootstrap, NextJS, PrimeReact, PrimeFlex, MySQL
+Patient System - Javascript, Express, Sequelize, React, Bootstrap, NextJS, PrimeReact, PrimeFlex, MySQL
+
+<a href="https://gestion.ispp1.edu.ar/" target="blank"> ProfesadoProvincial </a> - Python, Django, Bootstrap
 
 <a href="https://bersekiel.github.io/odin-rockpaperscissors/" target="blank"> odin-rockpaper-scissors </a> - HTML, CSS, JS
 
@@ -44,7 +44,7 @@ Vitrinia - Typescript, Express, Sequelize, React, Bootstrap, MySQL
 
 <a href="https://bersekiel.github.io/TPOProgIII" target="blank"> TPOProgIII </a> - HTML, CSS, JS
 
-<a href="#" target="blank"> SistemasMultasITSE </a> - Java Swing
+Fine Systems ITSE - Java, Java Swing
 
 ## 📫 You can reach me in: 📫
 
