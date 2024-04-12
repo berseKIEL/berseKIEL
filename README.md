@@ -3,22 +3,22 @@
 
 <h3 align=center>A Full-stack Developer</h3>
 
-- 🔭 I'm currently working as a Full-stack Developer.
-- 💬 I'm looking opportunities to grow in the IT community constantly searching and doing challenges and courses.
-- 🌱 I'm learning new technologies and languages every day
+- I'm currently working as a Full-stack Developer.
+- I'm looking opportunities to grow in the IT community constantly searching and doing challenges and courses.
+- I'm learning new technologies and languages every day
 
-## ✨ About the Technologies and Languages I use ✨
-- 💻 SO:
-  - Windows - WSL - Ubuntu
+## About the Technologies and Languages I use
+- SO:
+  - Windows - WSL - Linux
 
-- 🤔 Learning:
+- Learning:
   - Angular, VueJs, Tailwind, Sequelize, Spring, NextJS, PrimeReact, PrimeFlex
   
-- 😄 Confident:
+- Confident:
   - Java, ExpressJS, Bootstrap, Jira, Trello
 
-- 🤪 Apassionated:
-  - Docker, React, .NET (C#), Javascript, TypeScript, Python, Django, Flask, MySQL, PostgreSQL, Git
+- Expert:
+  - Docker, React, .NET (C#), Javascript, TypeScript, Python, Django, Flask, MySQL, PostgreSQL, Git, TailwindCSS, Bootstrap
   
 ## Education
 - ITSE - Argentina
